@@ -18,7 +18,7 @@ Now I'm focusing on:
 
 
 ## 🛠️ What I wrote
-I started developing with C/C++ and OpenGL in computer graphics, then moved to full-stack web development using Java, Spring, MSSQL, and Flutter. Now, I'm working with Elixir/Phoenix, and in some cases, React, to deploy my own apps."
+I started developing with C/C++ and OpenGL in computer graphics, then moved to full-stack web development using Java, Spring, MSSQL, and Flutter. Now, I'm working with React and Spring Boot to deploy my own apps."
 
 <p>
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
