@@ -5,6 +5,7 @@ If you have been doing something cool about web dev or DX, contact me.
 [X](https://x.com/uxxxjp)
 [LinkedIn](https://www.linkedin.com/in/uxjp)
 [GitHub](https://github.com/uxjp)
+[Website](https://uxjp.github.io)
 
 Now I'm focusing on:
 
